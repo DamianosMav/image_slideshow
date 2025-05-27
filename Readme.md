@@ -30,6 +30,7 @@ Cycle through images in your `assets/` folder with Previous/Next buttons—resiz
     ```bash
     git clone https://github.com/DamianosMav/image-slideshow.git
     cd image-slideshow
+    ```
  **Install dependencies**
     pip install -r requirements.txt
 
