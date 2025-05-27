@@ -27,11 +27,9 @@ Cycle through images in your `assets/` folder with Previous/Next buttons—resiz
 ## 🚀 Getting Started
 
  **Clone this repository**  
-    ```
-    bash
+    ```bash
     git clone https://github.com/DamianosMav/image-slideshow.git
-    cd image-slideshow
-    ```
+    cd image-slideshow```
  **Install dependencies**
     pip install -r requirements.txt
 
@@ -43,10 +41,10 @@ Cycle through images in your `assets/` folder with Previous/Next buttons—resiz
 
 ## ⚙️Configuration
     Window size
-    -Edit width and height defaults in SlideshowApp.__init__ if you want a different canvas size.
+    Edit width and height defaults in SlideshowApp.__init__ if you want a different canvas size.
 
     Asset directory
-    -By default, uses the assets/subfolder. Change assets_path = Path(__file__).parent / "assets" in main.py to point elsewhere if needed.
+    By default, uses the assets/subfolder. Change assets_path = Path(__file__).parent / "assets" in main.py to point elsewhere if needed.
 
 ## 📸 Screenshots
 ![Main window with sample tasks](assets/App-photo.jpg)
