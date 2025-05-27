@@ -27,10 +27,12 @@ Cycle through images in your `assets/` folder with Previous/Next buttons—resiz
 ## 🚀 Getting Started
 
  **Clone this repository**  
-    ```bash
-git clone https://github.com/DamianosMav/image-slideshow.git
-cd image-slideshow
-```
+   ```
+   bash
+   git clone https://github.com/DamianosMav/image_slideshow.git
+   cd tkinter-todo
+   ```
+
  **Install dependencies**
     pip install -r requirements.txt
 
