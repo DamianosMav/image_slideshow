@@ -49,7 +49,7 @@ Cycle through images in your `assets/` folder with Previous/Next buttons—resiz
     Asset directory
     By default, uses the assets/subfolder. Change assets_path = Path(__file__).parent / "assets" in main.py to point elsewhere if needed.
 
-## 📸 Screenshots
+## 📸 Screenshot
 ![Main window with sample tasks](assets/App-photo.jpg)
 
 ## 📄License
